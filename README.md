@@ -11,7 +11,7 @@ The developer-friendly, opinionated Ruby SDK for [Spotify]. Works on Ruby 2.4+
 
 🎨 [Website] | 💖 [Contributing] | 📖 [SDK Reference] | 🔒 [Code of Conduct](#code-of-conduct)
 
-## Contentss
+## Contents
 
 - [Introduction](#introduction)
 - [Install](#install)
